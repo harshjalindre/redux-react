@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex: content;
+  flex-direction: row;
+}
+
+.func{
+  background-color: rgba(30, 123, 204, 0.795);
+  cursor: pointer;
+  border: none;
+  box-shadow: 1px 1px 1px #ccc;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.Cart{
+  background-color: #ffd600;
+  border: none;
+  width: 160px;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+
